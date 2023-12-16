@@ -42,6 +42,7 @@ The ANPR system is a result of my extensive research and hands-on experience in 
 ## Results
 
 Below is the results of running the software on a sample video:
+
 ![](https://github.com/natachi-o/Automatic-Number-Plate-Recognition-System/blob/main/ezgif-3-aeb0657e8f.gif)
 
 The video depicts the car license plates being accurately detected with accompanying visualiation to further emphasise the detected license plates.
