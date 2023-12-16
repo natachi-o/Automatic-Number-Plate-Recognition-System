@@ -41,7 +41,10 @@ The ANPR system is a result of my extensive research and hands-on experience in 
 
 ## Results
 
-Below is the results of running the software on a sample vide:
+Below is the results of running the software on a sample video:
+![Alt Text](https://jmp.sh/s/m2mjVuDk7J4Soawhb6WD.gif)
+
+The video depicts the car license plates being accurately detected with accompanying visualiation to further emphasise the detected license plates.
 
 ## Future Enhancements
 
