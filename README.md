@@ -1,6 +1,6 @@
 # Automated Number Plate Recognition (ANPR) System
 
-Welcome to my portfolio project showcasing an Automated Number Plate Recognition (ANPR) system. This project represents my expertise in integrating machine learning models with real-time image processing techniques to create a robust and efficient system for vehicle license plate detection and recognition.
+Hi there, this is an Automated Number Plate Recognition System that I built as a personal project. This application represents my expertise in integrating machine learning models with real-time image processing techniques to create a robust and efficient system for vehicle license plate detection and recognition.
 
 ## Overview
 
@@ -39,9 +39,9 @@ The ANPR system is designed to detect and read vehicle license plates in real-ti
 
 The ANPR system is a result of my extensive research and hands-on experience in machine learning, computer vision, and software development. I carefully selected and integrated each component to ensure that the system is not only accurate but also efficient in a real-time environment. Special attention was given to the interplay between the detection, tracking, and OCR components to create a seamless workflow.
 
-## Installation and Usage
+## Results
 
-Please refer to the Installation section for setting up the project. To run the system, execute the `main_combined.py` script.
+Below is the results of running the software on a sample vide:
 
 ## Future Enhancements
 
