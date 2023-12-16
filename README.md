@@ -57,4 +57,4 @@ This project is open-sourced under the MIT License.
 
 ---
 
-This project is a testament to my skills in AI, machine learning, and system integration, showcasing my ability to create complex, real-world applications. It stands as an example of my dedication to continuous learning and applying cutting-edge technology to solve challenging problems.
+
