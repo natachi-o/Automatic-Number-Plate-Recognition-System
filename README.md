@@ -6,6 +6,10 @@ Hi there, this is an Automated Number Plate Recognition System that I built as a
 
 The ANPR system is designed to detect and read vehicle license plates in real-time using webcam feeds. It employs state-of-the-art deep learning models for object detection and optical character recognition (OCR), along with tracking algorithms to maintain consistency across video frames.
 
+Below is the results of running the software on a sample video:
+
+![](https://github.com/natachi-o/Automatic-Number-Plate-Recognition-System/blob/main/ezgif-3-aeb0657e8f.gif)
+
 ## Technical Breakdown
 
 ### 1. Vehicle and License Plate Detection
@@ -38,14 +42,6 @@ The ANPR system is designed to detect and read vehicle license plates in real-ti
 ## How I Built It
 
 The ANPR system is a result of my extensive research and hands-on experience in machine learning, computer vision, and software development. I carefully selected and integrated each component to ensure that the system is not only accurate but also efficient in a real-time environment. Special attention was given to the interplay between the detection, tracking, and OCR components to create a seamless workflow.
-
-## Results
-
-Below is the results of running the software on a sample video:
-
-![](https://github.com/natachi-o/Automatic-Number-Plate-Recognition-System/blob/main/ezgif-3-aeb0657e8f.gif)
-
-The video depicts the car license plates being accurately detected with accompanying visualiation to further emphasise the detected license plates.
 
 ## Future Enhancements
 
